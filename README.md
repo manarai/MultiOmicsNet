@@ -137,7 +137,7 @@ If you use MultiOmicsNet in your research, please cite:
 ```bibtex
 @software{multiomicsnet2025,
   title={MultiOmicsNet: Cross-Layer Network Integration for Multi-Omics Data},
-  author={Manus AI},
+  author={Manarai},
   year={2025},
   url={https://github.com/your-username/MultiOmicsNet}
 }
