@@ -23,7 +23,7 @@ MultiOmicsNet implements a hybrid approach combining inference-based (data-drive
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/MultiOmicsNet.git
+git clone https://github.com/manarai/MultiOmicsNet.git
 cd MultiOmicsNet
 
 # Create conda environment
@@ -139,7 +139,7 @@ If you use MultiOmicsNet in your research, please cite:
   title={MultiOmicsNet: Cross-Layer Network Integration for Multi-Omics Data},
   author={Manarai},
   year={2025},
-  url={https://github.com/your-username/MultiOmicsNet}
+  url={https://github.com/manarai/MultiOmicsNet}
 }
 ```
 
@@ -154,6 +154,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ## Support
 
 - **Documentation**: [https://multiomicsnet.readthedocs.io](https://multiomicsnet.readthedocs.io)
-- **Issues**: [GitHub Issues](https://github.com/your-username/MultiOmicsNet/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/MultiOmicsNet/discussions)
+- **Issues**: [GitHub Issues](https://github.com/manarai/MultiOmicsNet/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/manarai/MultiOmicsNet/discussions)
 
